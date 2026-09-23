@@ -1,0 +1,38 @@
+name: Update Light Rail ETA
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: lrt-data-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          persist-credentials: true
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch LRT ETA + stations
+        run: python fetch_lrt_eta.py
+
+      - name: Commit if data changed
+        run: |
+          if [ -n "$(git status --porcelain -- lrt_eta_data.json stations.geojson light_rail_stops.csv)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add lrt_eta_data.json stations.geojson light_rail_stops.csv
+            git commit -m "chore: auto-update LRT ETA data"
+            git push origin master
+          else
+            echo "No data changes — skipping commit."
+          fi
