@@ -1,6660 +1,834 @@
 {
- "updated": "2026-09-25T17:25:24.456973+00:00",
+ "updated": "2026-09-25T20:38:19.351616+00:00",
  "station_count": 68,
  "stations": {
   "SAS": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:19"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:22"
   },
   "SIL": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:20"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:23"
   },
   "ONT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:21"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:25"
   },
   "TOC": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 4,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 4
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:22"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:25"
   },
   "TML": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:23"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:26"
   },
   "KIO": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:23"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:27"
   },
   "SKS": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:24"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:28"
   },
   "SKN": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:25"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:28"
   },
   "SHP": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:26"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:29"
   },
   "SAW": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:26"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:30"
   },
   "LEK": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:27"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:31"
   },
   "TNK": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     },
     {
-     "platform_id": 3,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 3
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:28"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:31"
   },
   "KIS": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:28"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:32"
   },
   "CHC": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:29"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:33"
   },
   "KEL": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:30"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:34"
   },
   "SHL": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     },
     {
-     "platform_id": 3,
-     "end_service_status": 1
+     "platform_id": 3
     },
     {
-     "platform_id": 5,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 5
     },
     {
-     "platform_id": 6,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 6
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:31"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:35"
   },
   "MIK": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Sam Shing",
-       "dest_ch": "三聖",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "505",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:32"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:36"
   },
   "FEP": {
    "platform_list": [
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     },
     {
-     "platform_id": 3,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 3
     },
     {
-     "platform_id": 4,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 4
     },
     {
-     "platform_id": 5,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 5
     },
     {
-     "platform_id": 6,
-     "end_service_status": 1
+     "platform_id": 6
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:33"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:37"
   },
   "SHE": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:34"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:38"
   },
   "TSP": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:36"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:39"
   },
   "GOG": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:37"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:39"
   },
   "HOT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:38"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:40"
   },
   "CYB": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:39"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:41"
   },
   "NGW": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:41"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:42"
   },
   "THS": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:42"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:43"
   },
   "THN": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin King",
-       "dest_ch": "田景",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "507",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:42"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:44"
   },
   "PUT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:44"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:45"
   },
   "HFT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:45"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:46"
   },
   "SAH": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:46"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:47"
   },
   "PRV": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:47"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:48"
   },
   "FUT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "614P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:48"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:49"
   },
   "TWN": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:49"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:50"
   },
   "TSS": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:49"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:50"
   },
   "LUM": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:50"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:51"
   },
   "LRD": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:51"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:52"
   },
   "BUT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:52"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:53"
   },
   "MEG": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Siu Hong",
-       "dest_ch": "兆康",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "615P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:53"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:54"
   },
   "AFF": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:54"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:55"
   },
   "TMH": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:55"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:56"
   },
   "LTE": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:56"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:56"
   },
   "NAW": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:57"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:57"
   },
   "CUT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:24:59"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:58"
   },
   "HSK": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:00"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:58"
   },
   "TOF": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:01"
+   "status": 2,
+   "system_time": "2026-09-26 04:37:59"
   },
   "PIS": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:02"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:00"
   },
   "SPW": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:03"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:00"
   },
   "FNR": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:04"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:01"
   },
   "HLR": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:05"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:02"
   },
   "TTR": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:05"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:03"
   },
   "YLL": {
    "platform_list": [
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "614",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     },
     {
-     "platform_id": 3,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "610",
-       "stop": 0
-      }
-     ]
+     "platform_id": 3
     },
     {
-     "platform_id": 4,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Tuen Mun Ferry Pier",
-       "dest_ch": "屯門碼頭",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "615",
-       "stop": 0
-      }
-     ]
+     "platform_id": 4
     },
     {
-     "platform_id": 5,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 5
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:06"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:04"
   },
   "TSL": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     },
     {
-     "platform_id": 3,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "D",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 3
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:07"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:05"
   },
   "TIT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:08"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:05"
   },
   "TWU": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:09"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:06"
   },
   "GIN": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:10"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:07"
   },
   "TWI": {
    "platform_list": [
     {
-     "platform_id": 4,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 4
     },
     {
-     "platform_id": 6,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 6
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:10"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:07"
   },
   "TYU": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:11"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:08"
   },
   "TSA": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:12"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:09"
   },
   "WEP": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:13"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:10"
   },
   "THE": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:14"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:11"
   },
   "TYA": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 0,
-       "arrival_departure": "D",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     },
     {
-     "platform_id": 4,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 4
     },
     {
-     "platform_id": 5,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "6 mins",
-       "time_ch": "6 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 5
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:15"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:11"
   },
   "TFU": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "14 mins",
-       "time_ch": "14 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 0,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:16"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:12"
   },
   "CHF": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "3 mins",
-       "time_ch": "3 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 0,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:17"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:13"
   },
   "TSU": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "Arriving",
-       "time_ch": "即將抵達",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "5 mins",
-       "time_ch": "5 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "15 mins",
-       "time_ch": "15 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "19 mins",
-       "time_ch": "19 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:18"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:14"
   },
   "LOC": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "12 mins",
-       "time_ch": "12 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:19"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:15"
   },
   "TIY": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "11 mins",
-       "time_ch": "11 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "16 mins",
-       "time_ch": "16 分鐘",
-       "special": 0,
-       "route_no": "706",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "-",
-       "time_ch": "-",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "4 mins",
-       "time_ch": "4 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "TSW Circular",
-       "dest_ch": "天水圍循環綫",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "705",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "18 mins",
-       "time_ch": "18 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:20"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:16"
   },
   "YAO": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 1,
-       "arrival_departure": "D",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "9 mins",
-       "time_ch": "9 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:21"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:17"
   },
   "HMT": {
    "platform_list": [
     {
-     "platform_id": 1,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "2 mins",
-       "time_ch": "2 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      },
-      {
-       "train_length": 1,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "8 mins",
-       "time_ch": "8 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "17 mins",
-       "time_ch": "17 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yuen Long",
-       "dest_ch": "元朗",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "7 mins",
-       "time_ch": "7 分鐘",
-       "special": 0,
-       "route_no": "761P",
-       "stop": 0
-      },
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Yau Oi",
-       "dest_ch": "友愛",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "10 mins",
-       "time_ch": "10 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:22"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:17"
   },
   "CHE": {
    "platform_list": [
@@ -6662,27 +836,11 @@
      "platform_id": 1
     },
     {
-     "platform_id": 2,
-     "route_list": [
-      {
-       "train_length": 2,
-       "arrival_departure": "A",
-       "dest_en": "Tin Yat",
-       "dest_ch": "天逸",
-       "additionalInfo1": "",
-       "routeRemarkEng2": "",
-       "routeRemarkChi2": "",
-       "time_en": "13 mins",
-       "time_ch": "13 分鐘",
-       "special": 0,
-       "route_no": "751",
-       "stop": 0
-      }
-     ]
+     "platform_id": 2
     }
    ],
-   "status": 1,
-   "system_time": "2026-09-26 01:25:24"
+   "status": 2,
+   "system_time": "2026-09-26 04:38:18"
   }
  }
 }
